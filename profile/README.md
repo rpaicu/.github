@@ -1,8 +1,13 @@
 ## Products
 
-- https://api.rpa.icu/
-- https://url2md.rpa.icu/
-- https://mirror.rpa.icu/
+- https://api.rpa.icu/ - LiteLLM-based API server
+- https://url2md.rpa.icu/ - A simple project that allows you to convert any link to markdown
+- https://mirror.rpa.icu/ - Few debian repositories mirror
+
+## Bots
+
+- [@subgen_bot](https://t.me/ruMorphemeBot) - Telegram bot for extracting subtitles from any audio, video or link to YouTube/X/Dzen/RuTube etc.
+- [@ruMorphemeBot](https://t.me/ruMorphemeBot) - Telegram bot for morphemic analysis, segmentation and tokenization of Russian words
 
 ## Projects
 
