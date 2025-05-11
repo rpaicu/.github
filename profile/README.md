@@ -24,3 +24,8 @@
 
 - [docker-llama.cpp-rpc](https://github.com/EvilFreelancer/docker-llama.cpp-rpc) - llama.cpp RPC server in Docker
 - [impruver](https://github.com/EvilFreelancer/impruver) - LLM training tool
+
+### Natural Language Processing (NLP)
+
+- [docker-rumorpheme-bot](https://github.com/EvilFreelancer/docker-rumorpheme-bot)
+- [ruMorpheme](https://github.com/EvilFreelancer/ruMorpheme)
