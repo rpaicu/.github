@@ -3,6 +3,7 @@
 - https://api.rpa.icu/ - LiteLLM-based API server
 - https://url2md.rpa.icu/ - A simple project that allows you to convert any link to markdown
 - https://mirror.rpa.icu/ - Few debian repositories mirror
+- https://status.rpa.icu/ - Status Page for monitoring services
 
 ## Bots
 
