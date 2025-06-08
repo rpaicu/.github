@@ -30,3 +30,7 @@
 
 - [docker-rumorpheme-bot](https://github.com/EvilFreelancer/docker-rumorpheme-bot)
 - [ruMorpheme](https://github.com/EvilFreelancer/ruMorpheme)
+
+### Images rerank and classification (CLIP)
+
+- [docker-clip-api](https://github.com/EvilFreelancer/docker-clip-api)
