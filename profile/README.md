@@ -5,6 +5,7 @@
 - https://url2md.rpa.icu/ - A simple project that allows you to convert any link to markdown
 - https://mirror.rpa.icu/ - Few debian repositories mirror
 - https://status.rpa.icu/ - Status Page for monitoring services
+- https://img2md.rpa.icu/ - OCR sustem based on qwen2.5vl model
 
 ## Bots
 
